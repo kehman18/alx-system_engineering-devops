@@ -1,1 +1,1 @@
-listing current directory
+listing current drectories
