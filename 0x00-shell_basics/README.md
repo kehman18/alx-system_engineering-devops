@@ -1,1 +1,1 @@
-listing directory in long format
+listing lond format directories
