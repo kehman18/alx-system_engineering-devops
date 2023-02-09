@@ -1,1 +1,1 @@
-contains a command to list directories
+long format
