@@ -1,1 +1,1 @@
-this is to move to the parent directory
+listing all files with special chars as well as in parent directory
