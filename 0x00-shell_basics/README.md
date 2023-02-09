@@ -1,1 +1,1 @@
-listing directories with strict informations
+creating a magic file
