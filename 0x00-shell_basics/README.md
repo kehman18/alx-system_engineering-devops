@@ -1,1 +1,1 @@
-changing to home directory
+change to root directory
