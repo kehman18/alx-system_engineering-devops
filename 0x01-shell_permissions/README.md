@@ -1,1 +1,1 @@
-this is to print the users name
+this is to print all groups
