@@ -1,1 +1,1 @@
-listing current drectories
+this is to create a directory
