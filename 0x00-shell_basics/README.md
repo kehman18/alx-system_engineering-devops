@@ -1,1 +1,1 @@
-change to root directory
+to list a long file format
