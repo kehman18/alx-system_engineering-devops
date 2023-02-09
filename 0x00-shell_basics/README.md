@@ -1,1 +1,1 @@
-clasifies some files according to their type
+creating a symbolic link
