@@ -1,1 +1,1 @@
-creating multiple directories in a single directory
+listing directories with strict informations
