@@ -1,1 +1,1 @@
-copying all files in the directory with extension .html
+picking files that start with capital letters
