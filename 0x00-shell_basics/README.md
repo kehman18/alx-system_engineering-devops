@@ -1,1 +1,1 @@
-listing hidden directories
+listing current directories
