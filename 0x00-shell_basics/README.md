@@ -1,1 +1,1 @@
-listing even hidden files
+listing hidden directories
