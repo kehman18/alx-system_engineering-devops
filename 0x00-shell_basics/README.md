@@ -1,1 +1,1 @@
-picking files that start with capital letters
+deleting all files ending with ~
