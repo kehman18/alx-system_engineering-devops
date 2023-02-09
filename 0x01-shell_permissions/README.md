@@ -1,1 +1,1 @@
-giving permission to be executable
+permissions
