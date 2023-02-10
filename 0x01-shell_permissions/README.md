@@ -1,1 +1,1 @@
-all permissons to the user
+selections to the permissions
