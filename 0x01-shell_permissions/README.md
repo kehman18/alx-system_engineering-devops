@@ -1,1 +1,1 @@
-permissons to file owner, group owner and other users
+all permissons to the user
