@@ -1,1 +1,1 @@
-changing still
+openign episode with a command
