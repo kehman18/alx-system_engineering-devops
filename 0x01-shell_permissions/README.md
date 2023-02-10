@@ -1,1 +1,1 @@
-creating a directory with specified permissions
+changing group
