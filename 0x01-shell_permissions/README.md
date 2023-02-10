@@ -1,1 +1,1 @@
-setting mode of files to be the same
+executing permissions to all subdirectoris
