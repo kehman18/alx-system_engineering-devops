@@ -1,1 +1,1 @@
-to list the content of two files at the same time
+this is to print the last ten lines of a file
