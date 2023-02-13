@@ -1,1 +1,1 @@
-input and outputing
+displaying lines contating atterned root
