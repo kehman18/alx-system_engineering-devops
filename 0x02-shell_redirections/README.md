@@ -1,1 +1,1 @@
-displaying lines contating atterned root
+displaying the three lines after the root files
