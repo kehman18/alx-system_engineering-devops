@@ -1,1 +1,1 @@
-displaying the three lines after the root files
+displaying lines that do not contain bin
