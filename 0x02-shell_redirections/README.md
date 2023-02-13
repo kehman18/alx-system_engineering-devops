@@ -1,1 +1,1 @@
-the script file is to print hello world
+i am creating an emoji. confused emoji to be precise
