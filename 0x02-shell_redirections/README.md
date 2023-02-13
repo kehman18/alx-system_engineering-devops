@@ -1,1 +1,1 @@
-i am creating an emoji. confused emoji to be precise
+this script is to display the content of a file
