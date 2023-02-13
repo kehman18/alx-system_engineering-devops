@@ -1,1 +1,1 @@
-this script is to display the content of a file
+to list the content of two files at the same time
