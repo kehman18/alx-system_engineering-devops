@@ -1,1 +1,1 @@
-to write into a file the result of the command ls -la
+dupliaccating the last line of a file
