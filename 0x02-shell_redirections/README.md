@@ -1,1 +1,1 @@
-dupliaccating the last line of a file
+this script is to delete files and subfiles with the extension js
