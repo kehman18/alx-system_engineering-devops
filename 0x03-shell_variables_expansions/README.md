@@ -1,1 +1,1 @@
-changing variable name
+creating a global variable
