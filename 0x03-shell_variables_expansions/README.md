@@ -1,1 +1,1 @@
-this is to create an alias
+to print users nanme
