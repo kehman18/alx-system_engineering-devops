@@ -1,1 +1,1 @@
-creating a global variable
+to divide a variable by another
