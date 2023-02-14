@@ -1,1 +1,1 @@
-to print users nanme
+adding directory to path
