@@ -1,1 +1,1 @@
-to divide a variable by another
+variable raising to power
