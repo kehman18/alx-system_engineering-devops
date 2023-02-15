@@ -1,1 +1,1 @@
-variable raising to power
+converting to base ten
